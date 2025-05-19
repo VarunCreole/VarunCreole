@@ -1,7 +1,34 @@
 ## Hi, I'm Varun Panchal 👋 
+## 💫 About Me
 
-## 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br> AWS Services , Core NodeJs and GraphQL.<br><br>💬 **Ask me about:**  <br>Generative AI, JavaScript, React, Fast API, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing games.
+🔭 **Currently working on:**  
+I'm working on an AI-powered storytelling application designed for kids. In this app, children can create and generate their own stories by selecting a genre, theme, and characters. The AI then crafts a personalized story based on their inputs using <strong>OpenAI</strong>
+Generates images using <strong>Stability AI</strong>.
+Generate audio using <strong>Eleven Labs</strong>.
+
+This project also helps students improve their English by reading, listening to, and interacting with stories. It offers a fun and educational way for kids to practice language skills using AI technology.
+
+
+👯 **Looking to collaborate on:**  
+Full-stack projects
+
+🌱 **Currently learning:**  
+AWS Services, Core Node.js, and GraphQL
+
+💬 **Ask me about:**  
+I'm always happy to share my knowledge and experience! Feel free to reach out if you want to discuss:
+
+- 🧠 **Generative AI** – Prompt engineering, use cases, integration in real-world applications  
+- 💻 **JavaScript Ecosystem** – From ES6+ features to frameworks like React and Next.js  
+- ⚙️ **Backend Development** – Building scalable APIs with Node.js and FastAPI  
+- ☁️ **Cloud Computing** – Deploying and managing applications using AWS services (Lambda, S3, EC2, etc.) and Vercel.  
+- 🔐 **System Design & Architecture** – Implementing microservices, RESTful APIs, and secure application structures  
+- 🚀 **Modern Web Development** – Full-stack workflows, CI/CD, performance optimization, and best practices
+
+
+⚡ **Fun fact:**  
+I love playing games 🎮
+
 
 ## 🌱 Currently Exploring
 
