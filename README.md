@@ -2,9 +2,15 @@
 ## 💫 About Me
 
 🔭 **Currently working on:**  
-I'm working on an AI-powered storytelling application designed for kids. In this app, children can create and generate their own stories by selecting a genre, theme, and characters. The AI then crafts a personalized story based on their inputs using <strong>OpenAI</strong>
-Generates images using <strong>Stability AI</strong>.
-Generate audio using <strong>Eleven Labs</strong>.
+I'm working on an AI-powered storytelling application designed for kids. In this app, children can create and generate their own stories by selecting a genre, theme, and characters. The AI then crafts a personalized story based on their inputs using ![Static Badge](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=Openai&logoColor=white)
+
+
+
+
+Generates images using ![Static Badge](https://img.shields.io/badge/Stability%20AI-8A2BE2?style=for-the-badge)
+.
+Generate audio using ![Static Badge](https://img.shields.io/badge/Eleven%20Labs-975344?style=for-the-badge)
+.
 
 This project also helps students improve their English by reading, listening to, and interacting with stories. It offers a fun and educational way for kids to practice language skills using AI technology.
 
